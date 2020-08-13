@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.customFooter {
+  background-color: #282c34;
+  color: aliceblue;
+  width: 100%;
+  margin: auto;
+  padding-bottom: 40px;
+  padding-left: 50px;
+  padding-top: 40px;
+  height: auto;
+  align-items: center;
+}
+
+.footerDiv {
+  padding: 50px;
+}
